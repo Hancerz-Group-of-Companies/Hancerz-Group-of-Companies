@@ -1,11 +1,18 @@
-# Hancerz-Group-of-Companies
+<div align="center">
+  <h1>Welcome to Hancerz Group of Companies 👋</h1>
+
+
+<a href="https://services.hancerz.com">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=2F80ED&center=true&vCenter=true&width=500&lines=Full-Stack+Web+Developers;Digital+Marketing+Experts;Game+%26+Asset+Designers;Video+Editing+Specialists" alt="Typing SVG" />
+</div>
+
 The official GitHub organization for Hancerz Group of Companies — Building the future of Finance, Gaming, and Digital Utilities.
 
 **Hancerz Group of Companies** is a diverse digital ecosystem building the future of finance, gaming, utilities, and educational technology. Our mission is to create tools that empower users, creators, and businesses globally.
 
-### 🌐 The Hancerz Ecosystem
+### The Hancerz Ecosystem
 
-#### 🏢 **Business & Core Services**
+#### **Business & Core Services**
 | Project | Description | Link |
 | :--- | :--- | :--- |
 | **Hancerz** | The official parent company website. | [hancerz.com](https://www.hancerz.com/) |
@@ -14,7 +21,7 @@ The official GitHub organization for Hancerz Group of Companies — Building the
 | **Hancerz Partners** | Partnership and affiliate network. | [hancerz.com/partners](https://www.hancerz.com/partners/) |
 | **Hancerz Media** | Digital media and content production. | [media.hancerz.com](https://media.hancerz.com/) |
 
-#### 🛠️ **Utilities & Tools**
+#### **Utilities & Tools**
 | Project | Description | Link |
 | :--- | :--- | :--- |
 | **Hancerz Tools** | All-in-one digital utility platform. | [tools.hancerz.com](https://tools.hancerz.com/) |
@@ -26,14 +33,14 @@ The official GitHub organization for Hancerz Group of Companies — Building the
 | **Money Tracker** | Personal finance and expense tracking tool. | [hancerz.com/money-tracker](https://www.hancerz.com/money-tracker/) |
 | **Couple Name Gen** | Fun viral tool for relationship names. | [tools.hancerz.com/cng](https://tools.hancerz.com/couple-name-generator/) |
 
-#### 🎮 **Entertainment & Creative**
+#### **Entertainment & Creative**
 | Project | Description | Link |
 | :--- | :--- | :--- |
 | **Hancerz Games** | Online gaming platform (Hancerz Interactives). | [games.hancerz.com](https://games.hancerz.com/) |
 | **Hancerz Vibe** | Music, entertainment, and lifestyle hub. | [vibe.hancerz.com](https://vibe.hancerz.com/) |
 | **Desynerz** | Creative design assets and portfolio. | [desynerz.hancerz.com](https://desynerz.hancerz.com/) |
 
-#### 🎓 **Education & Development**
+#### **Education & Development**
 | Project | Description | Link |
 | :--- | :--- | :--- |
 | **Hancerz Campus** | Comprehensive institute management system. | [campus.hancerz.com](https://campus.hancerz.com/) |
@@ -42,11 +49,11 @@ The official GitHub organization for Hancerz Group of Companies — Building the
 
 ---
 
-### 🚀 Focus Areas
+### Focus Areas
 * **FinTech:** Cryptocurrency, AdSense Optimization, Asset Management.
 * **SaaS:** Cloud-based utilities for everyday problems.
 * **EdTech:** Digitalizing education and institute management.
 
-### 🔗 Connect
+### Connect
 * **Founder:** [Salik Ahmed](https://github.com/ItsSalikAhmed)
 * **Community:** [Join our Facebook Group](https://www.facebook.com/groups/earnmoneyonlinehancerz)
